@@ -1,0 +1,11 @@
+User should have Python 2.7 or later installed.
+
+User should have eyeD3 package for Python installed ( Easiest way is to use Pip )
+http://eyed3.nicfit.net/installation.html
+
+User should have selenium package installed ( Easiest way is to use Pip )
+http://selenium-python.readthedocs.org/installation.html
+
+User should have Mozilla Firefox installed
+
+User should have Windows installed ( any Version )( Tested on Windows 8.1 )

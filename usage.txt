@@ -1,0 +1,5 @@
+1. Copy the src Folder to your desired Location (Dir)
+2. Now copy the Song you have to fix (Rename and find Album Art) to Dir.
+3. Open Command Prompt in Dir.
+4. Type "python Main.py Your_File_Name"
+5. Enjoy!
